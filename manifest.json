@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Quote By Sachin",
+    "version": "1.1",
+    "description": "My Own Extension ",
+    "chrome_url_overrides": {
+      "newtab": "newtab.html"
+    },
+    "permissions": [
+      "storage"
+    ],
+    "icons": {
+      "128": "icon.png"
+    }
+  }
+  
